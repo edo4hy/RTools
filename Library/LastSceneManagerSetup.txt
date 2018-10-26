@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NVR_ToolExample.unity
+  isLoaded: 1
+  isActive: 1
